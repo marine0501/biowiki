@@ -16,7 +16,6 @@ release = 'version 1.1'
 
 extensions = [
     'recommonmark',
-     'sphinx_markdown_tables'
 ]
 
 templates_path = ['_templates']

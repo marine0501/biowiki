@@ -7,14 +7,10 @@ Welcome to bio world's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 3
-   :caption: Contents:
+   :maxdepth: 5
+   :caption: 
 
-   one
-   two
-   three
-   four
-   five
+  bio/index
 
 
 
