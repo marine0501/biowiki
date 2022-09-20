@@ -6,11 +6,15 @@
 Welcome to bio world's documentation!
 =====================================
 
+
+探索生物世界
+
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
    :caption: 
 
   bio/index
+
 
 
 
